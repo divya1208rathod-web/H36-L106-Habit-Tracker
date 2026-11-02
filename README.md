@@ -64,3 +64,13 @@ This task runs daily at 9 PM when WSL is running and cron is active.
 3. I learned to calculate habit completion using awk.
 4. I learned to create reports and backups using shell commands.
 5. I learned to schedule automatic tasks using cron.
+## Project Guide
+
+This project was completed under the guidance of **Dr. Anjum Y. Mansuri**, Assistant Professor, Computer Applications, LJ Institute of Computer Applications, LJ University, Ahmedabad.
+
+GitHub: [@anjum-mansuri](https://github.com/anjum-mansuri)
+
+**Course:** OS Linux Lab 260120510  
+**Project ID:** L38
+
+**Project Title:** Habit Tracker
